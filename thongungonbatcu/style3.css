@@ -1,0 +1,44 @@
+.backround-trang{
+	width: 85%;
+	background-color: #75efec9e;
+}
+.noidung h1{
+	text-align: center;
+	font-size: 60px;
+}
+.noidung p {
+	font-size: 20px;
+	
+}
+.ten-trang{
+	font-size: 20px;
+
+}
+#logo img{
+	width: 300px;
+	cursor: pointer;
+}
+ul li{
+	font-size: 20px;
+	text-align: left;
+}
+#anh{
+	width: 74vw;
+	padding-left: 4vw;
+}
+.nav{
+	text-align: left;
+	font-size: 35px;
+}
+.nav pre{
+	font-size: 20;
+}
+.thiennhien6{
+	width: 70vw;
+}
+.noidung{
+	text-align: center;
+}
+.noidung div{
+	text-align: center;
+}

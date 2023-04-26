@@ -1,0 +1,49 @@
+.backround-trang{
+	width: 85%;
+	background-color: #75efec9e;
+}
+.noidung h1{
+	text-align: center;
+	font-size: 60px;
+}
+.noidung p {
+	font-size: 20px;
+	
+}
+.ten-trang{
+	font-size: 20px;
+	text-align: left;
+
+}
+#logo img{
+	width: 300px;
+	cursor: pointer;
+}
+ul li{
+	font-size: 30px;
+}
+#anh{
+	width: 74vw;
+	padding-left: 4vw;
+}
+.noidung1{
+	font-size: 20px;
+	text-align: center;
+}
+@media(max-width: 740px){
+	ul li{
+		font-size: 20px;
+	}
+}
+.anh{
+	width: 50vw;
+}
+.thiennhien11{
+	width: 70vw;
+}
+.thiennhien5{
+	width: 70vw;
+}
+.nav-list{
+	font-size: 20px;
+}

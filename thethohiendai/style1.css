@@ -1,0 +1,67 @@
+
+.nav h1{
+	
+	font-size: 30px;
+}
+#logo img{
+	width: 200px;
+	cursor: pointer;
+}
+.backround-trang{
+	width: 920px;
+	width: 85%;
+	background-color: #75efec9e;
+}
+.noidung h1{
+	text-align: center;
+	font-size: 60px;
+}
+.noidung p {
+	font-size: 20px;
+
+	
+}
+.ten-trang{
+	font-size: 20px;
+
+}
+#logo img{
+	width: 600px;
+	cursor: pointer;
+}
+ul li{
+	font-size: 20px;
+	text-align: left;
+}
+#anh{
+	width: 74vw;
+	padding-left: 4vw;
+}
+.nav h1{
+	font-size: 100px;
+}
+.nav h2{
+	font-size: 60px;
+}
+.nav p{
+	font-size: 40px;
+} 
+
+.nav-list{
+	font-size: 20px;
+}
+.nav-list pre{
+	font-size: 40px;
+}
+.ten-trang li{
+	font-size: 50px;
+}
+.noidung{
+	text-align: center;
+}
+.thiennhien2{
+	width: 70vw;
+}
+.thiennhien3{
+	width: 70vw;
+}
